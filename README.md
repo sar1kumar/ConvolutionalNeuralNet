@@ -14,3 +14,6 @@ Convolutional networks may include local or global pooling layers to streamline 
 Each neuron in a neural network computes an output value by applying a specific function to the input values coming from the receptive field in the previous layer. The function that is applied to the input values is determined by a vector of weights and a bias (typically real numbers). Learning, in a neural network, progresses by making iterative adjustments to these biases and weights.
 
 The vector of weights and the bias are called filters and represent particular features of the input (e.g., a particular shape). A distinguishing feature of CNNs is that many neurons can share the same filter. This reduces memory footprint because a single bias and a single vector of weights are used across all receptive fields sharing that filter, as opposed to each receptive field having its own bias and vector weighting
+
+# RESIDUAL NEURAL Networks
+![Img](https://github.com/sar1kumar/ConvolutionalNeuralNet/blob/main/model.png?raw=true)
