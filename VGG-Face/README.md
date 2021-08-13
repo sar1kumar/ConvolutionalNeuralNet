@@ -8,3 +8,4 @@
 - https://www.analyticsvidhya.com/blog/2021/06/build-vgg-net-from-scratch-with-python/
 - https://www.geeksforgeeks.org/introduction-convolution-neural-network/
 - https://cs231n.github.io/convolutional-networks/
+- https://www.robots.ox.ac.uk/~vgg/data/vgg_face/
